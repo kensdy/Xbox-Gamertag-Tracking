@@ -17,7 +17,7 @@ O script utiliza a biblioteca `requests` para realizar solicitações HTTP e `Be
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/kensdy/Xbox-Gamertag-Tracking
 ```
 
 2. Instale as dependências:
