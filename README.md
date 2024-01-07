@@ -9,7 +9,7 @@ O script utiliza a biblioteca `requests` para realizar solicitações HTTP e `Be
 
 ## Requisitos
 
-- Python 3.x
+- Python
 - Bibliotecas Python: `requests`, `beautifulsoup4`
 
 ## Uso
