@@ -1,45 +1,49 @@
 **Xbox Gamertag Tracker**
 
-Este script em Python permite rastrear e verificar a existência de Gamertags em sites relacionados ao Xbox. Ele consulta os seguintes sites:
+This Python script allows tracking and checking the existence of Gamertags on Xbox-related websites. It queries the following sites:
 
 - [xboxgamertag.com](https://xboxgamertag.com/)
 - [trueachievements.com](https://www.trueachievements.com/)
 
-O script utiliza a biblioteca `requests` para realizar solicitações HTTP e `BeautifulSoup` para análise HTML.
+The script uses the `requests` library for making HTTP requests and `BeautifulSoup` for HTML parsing.
 
-## Requisitos
+## Requirements
 
 - Python
-- Bibliotecas Python: `requests`, `beautifulsoup4`
+- Python libraries: `requests`, `beautifulsoup4`
 
-## Uso
+## Usage
 
-1. Clone este repositório:
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/kensdy/Xbox-Gamertag-Tracking
 ```
 
-2. Instale as dependências:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Execute o script:
+3. Run the script:
 
 ```bash
 python xbox_gamertag_tracker.py
 ```
 
-## Configuração
+## Configuration
 
-Você pode configurar a exibição de logs alterando a variável `exibir_logs` para `True` ou `False` no início do script.
+You can configure log display by changing the `exibir_logs` variable to `True` or `False` at the beginning of the script.
 
-## Exemplo de Uso
+## Usage Example
 
 ```bash
-Digite o nome a ser verificado: gamertag_exemplo
+Enter the name to be checked: example_gamertag
 ```
 
-Este script é inspirado no projeto [Sherlock](https://github.com/sherlock-project/sherlock).
+This script is inspired by the [Sherlock](https://github.com/sherlock-project/sherlock) project.
+
+---
+
+Confira o 'readme.md' em potuguês.
