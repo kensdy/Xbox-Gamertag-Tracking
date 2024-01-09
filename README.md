@@ -46,4 +46,4 @@ This script is inspired by the [Sherlock](https://github.com/sherlock-project/sh
 
 ---
 
-Confira o [readme.md](https://github.com/kensdy/Xbox-Gamertag-Tracking/blob/main/PT-BR_README.md) em potuguês.
+Confira o [readme.md](https://github.com/kensdy/Xbox-Gamertag-Tracking/blob/main/PT-BR_README.md) em potuguês 🇧🇷.
