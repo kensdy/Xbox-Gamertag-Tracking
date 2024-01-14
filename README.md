@@ -1,5 +1,7 @@
 **Xbox Gamertag Tracker**
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=kensdy.Xbox-Gamertag-Tracking)](https://github.com/kensdy/Xbox-Gamertag-Tracking)
+
 English | [Português](README_pt.md)
 
 This Python script allows tracking and checking the existence of Gamertags on Xbox-related websites. It queries the following sites:
