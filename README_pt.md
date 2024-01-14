@@ -1,4 +1,6 @@
 **Xbox Gamertag Tracker**
+[English](README.md) | Português
+
 
 Este script em Python permite rastrear e verificar a existência de Gamertags em sites relacionados ao Xbox. Ele consulta os seguintes sites:
 
