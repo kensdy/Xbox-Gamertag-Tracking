@@ -10,6 +10,8 @@ Este script em Python permite rastrear e verificar a existência de Gamertags em
 
 O script utiliza a biblioteca `requests` para realizar solicitações HTTP e `BeautifulSoup` para análise HTML.
 
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdyxbox&label=Views&color=brightgreen)](https://github.com/kensdy/IP-Finder-Infos)
+
 ## Requisitos
 
 - Python
