@@ -9,6 +9,8 @@ This Python script allows tracking and checking the existence of Gamertags on Xb
 
 The script uses the `requests` library for making HTTP requests and `BeautifulSoup` for HTML parsing.
 
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdyxbox&label=Views&color=brightgreen)](https://github.com/kensdy/IP-Finder-Infos)
+
 ## Requirements
 
 - Python
